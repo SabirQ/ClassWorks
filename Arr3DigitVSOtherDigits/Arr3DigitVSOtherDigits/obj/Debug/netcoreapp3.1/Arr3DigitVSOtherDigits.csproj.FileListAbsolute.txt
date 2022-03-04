@@ -1,0 +1,13 @@
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\Arr3DigitVSOtherDigits\Arr3DigitVSOtherDigits\bin\Debug\netcoreapp3.1\Arr3DigitVSOtherDigits.exe
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\Arr3DigitVSOtherDigits\Arr3DigitVSOtherDigits\bin\Debug\netcoreapp3.1\Arr3DigitVSOtherDigits.deps.json
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\Arr3DigitVSOtherDigits\Arr3DigitVSOtherDigits\bin\Debug\netcoreapp3.1\Arr3DigitVSOtherDigits.runtimeconfig.json
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\Arr3DigitVSOtherDigits\Arr3DigitVSOtherDigits\bin\Debug\netcoreapp3.1\Arr3DigitVSOtherDigits.runtimeconfig.dev.json
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\Arr3DigitVSOtherDigits\Arr3DigitVSOtherDigits\bin\Debug\netcoreapp3.1\Arr3DigitVSOtherDigits.dll
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\Arr3DigitVSOtherDigits\Arr3DigitVSOtherDigits\bin\Debug\netcoreapp3.1\Arr3DigitVSOtherDigits.pdb
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\Arr3DigitVSOtherDigits\Arr3DigitVSOtherDigits\obj\Debug\netcoreapp3.1\Arr3DigitVSOtherDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\Arr3DigitVSOtherDigits\Arr3DigitVSOtherDigits\obj\Debug\netcoreapp3.1\Arr3DigitVSOtherDigits.AssemblyInfoInputs.cache
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\Arr3DigitVSOtherDigits\Arr3DigitVSOtherDigits\obj\Debug\netcoreapp3.1\Arr3DigitVSOtherDigits.AssemblyInfo.cs
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\Arr3DigitVSOtherDigits\Arr3DigitVSOtherDigits\obj\Debug\netcoreapp3.1\Arr3DigitVSOtherDigits.csproj.CoreCompileInputs.cache
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\Arr3DigitVSOtherDigits\Arr3DigitVSOtherDigits\obj\Debug\netcoreapp3.1\Arr3DigitVSOtherDigits.dll
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\Arr3DigitVSOtherDigits\Arr3DigitVSOtherDigits\obj\Debug\netcoreapp3.1\Arr3DigitVSOtherDigits.pdb
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\Arr3DigitVSOtherDigits\Arr3DigitVSOtherDigits\obj\Debug\netcoreapp3.1\Arr3DigitVSOtherDigits.genruntimeconfig.cache
