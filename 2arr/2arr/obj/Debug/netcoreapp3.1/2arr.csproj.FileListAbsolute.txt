@@ -1,0 +1,14 @@
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\2arr\2arr\bin\Debug\netcoreapp3.1\2arr.exe
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\2arr\2arr\bin\Debug\netcoreapp3.1\2arr.deps.json
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\2arr\2arr\bin\Debug\netcoreapp3.1\2arr.runtimeconfig.json
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\2arr\2arr\bin\Debug\netcoreapp3.1\2arr.runtimeconfig.dev.json
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\2arr\2arr\bin\Debug\netcoreapp3.1\2arr.dll
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\2arr\2arr\bin\Debug\netcoreapp3.1\2arr.pdb
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\2arr\2arr\obj\Debug\netcoreapp3.1\2arr.csproj.AssemblyReference.cache
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\2arr\2arr\obj\Debug\netcoreapp3.1\2arr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\2arr\2arr\obj\Debug\netcoreapp3.1\2arr.AssemblyInfoInputs.cache
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\2arr\2arr\obj\Debug\netcoreapp3.1\2arr.AssemblyInfo.cs
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\2arr\2arr\obj\Debug\netcoreapp3.1\2arr.csproj.CoreCompileInputs.cache
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\2arr\2arr\obj\Debug\netcoreapp3.1\2arr.dll
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\2arr\2arr\obj\Debug\netcoreapp3.1\2arr.pdb
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\2arr\2arr\obj\Debug\netcoreapp3.1\2arr.genruntimeconfig.cache
