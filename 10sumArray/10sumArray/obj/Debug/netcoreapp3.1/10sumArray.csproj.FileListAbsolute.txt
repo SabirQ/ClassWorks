@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\Challenge\10sumArray\10sumArray\bin\Debug\netcoreapp3.1\10sumArray.exe
+C:\Users\User\Desktop\Challenge\10sumArray\10sumArray\bin\Debug\netcoreapp3.1\10sumArray.deps.json
+C:\Users\User\Desktop\Challenge\10sumArray\10sumArray\bin\Debug\netcoreapp3.1\10sumArray.runtimeconfig.json
+C:\Users\User\Desktop\Challenge\10sumArray\10sumArray\bin\Debug\netcoreapp3.1\10sumArray.runtimeconfig.dev.json
+C:\Users\User\Desktop\Challenge\10sumArray\10sumArray\bin\Debug\netcoreapp3.1\10sumArray.dll
+C:\Users\User\Desktop\Challenge\10sumArray\10sumArray\bin\Debug\netcoreapp3.1\10sumArray.pdb
+C:\Users\User\Desktop\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.AssemblyInfo.cs
+C:\Users\User\Desktop\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.dll
+C:\Users\User\Desktop\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.pdb
+C:\Users\User\Desktop\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.genruntimeconfig.cache
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\10sumArray\10sumArray\bin\Debug\netcoreapp3.1\10sumArray.exe
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\10sumArray\10sumArray\bin\Debug\netcoreapp3.1\10sumArray.deps.json
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\10sumArray\10sumArray\bin\Debug\netcoreapp3.1\10sumArray.runtimeconfig.json
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\10sumArray\10sumArray\bin\Debug\netcoreapp3.1\10sumArray.runtimeconfig.dev.json
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\10sumArray\10sumArray\bin\Debug\netcoreapp3.1\10sumArray.dll
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\10sumArray\10sumArray\bin\Debug\netcoreapp3.1\10sumArray.pdb
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.csproj.AssemblyReference.cache
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.AssemblyInfoInputs.cache
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.AssemblyInfo.cs
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.csproj.CoreCompileInputs.cache
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.dll
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.pdb
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\10sumArray\10sumArray\obj\Debug\netcoreapp3.1\10sumArray.genruntimeconfig.cache
