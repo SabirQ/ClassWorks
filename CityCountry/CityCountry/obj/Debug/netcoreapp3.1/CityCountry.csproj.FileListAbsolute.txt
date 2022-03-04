@@ -1,0 +1,14 @@
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\CityCountry\CityCountry\bin\Debug\netcoreapp3.1\CityCountry.exe
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\CityCountry\CityCountry\bin\Debug\netcoreapp3.1\CityCountry.deps.json
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\CityCountry\CityCountry\bin\Debug\netcoreapp3.1\CityCountry.runtimeconfig.json
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\CityCountry\CityCountry\bin\Debug\netcoreapp3.1\CityCountry.runtimeconfig.dev.json
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\CityCountry\CityCountry\bin\Debug\netcoreapp3.1\CityCountry.dll
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\CityCountry\CityCountry\bin\Debug\netcoreapp3.1\CityCountry.pdb
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\CityCountry\CityCountry\obj\Debug\netcoreapp3.1\CityCountry.csproj.AssemblyReference.cache
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\CityCountry\CityCountry\obj\Debug\netcoreapp3.1\CityCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\CityCountry\CityCountry\obj\Debug\netcoreapp3.1\CityCountry.AssemblyInfoInputs.cache
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\CityCountry\CityCountry\obj\Debug\netcoreapp3.1\CityCountry.AssemblyInfo.cs
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\CityCountry\CityCountry\obj\Debug\netcoreapp3.1\CityCountry.csproj.CoreCompileInputs.cache
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\CityCountry\CityCountry\obj\Debug\netcoreapp3.1\CityCountry.dll
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\CityCountry\CityCountry\obj\Debug\netcoreapp3.1\CityCountry.pdb
+C:\Users\sabirmg\Desktop\New folder (2)\Challenge\CityCountry\CityCountry\obj\Debug\netcoreapp3.1\CityCountry.genruntimeconfig.cache
