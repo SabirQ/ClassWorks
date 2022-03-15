@@ -13,7 +13,7 @@ namespace UserLogin
 
         }
         public string CheckName()
-        {            
+        {
             Console.WriteLine("Please enter your name");
             string name = Console.ReadLine().Trim().ToLower();
             do
@@ -32,25 +32,33 @@ namespace UserLogin
             do
             {
                 Console.WriteLine("Please enter correct value");
-                surname = Console.ReadLine().Trim().ToLower();               
+                surname = Console.ReadLine().Trim().ToLower();
 
-            } while (surname.Length<3||CheckLetters(surname)==false);            
+            } while (surname.Length < 3 || CheckLetters(surname) == false);
             return Capitalized(surname);
         }
         public string CheckUsername()
         {
             string username = Console.ReadLine().Trim();
-            
+
 
         }
         public string CheckPassword()
         {
-            string password =Console.ReadLine();
+            Console.WriteLine("Please enter password");
+            string password = Console.ReadLine();
+            do
+            {
+                Console.WriteLine("Please enter correct value");
+                password = Console.ReadLine();
+
+            } while (CheckPassword(password) == false);
+            return password;
         }
         public byte CheckAge()
         {
             Console.WriteLine("Please enter your age");
-            byte age= 0;
+            byte age = 0;
             string str = (Console.ReadLine());
             bool result = byte.TryParse(str, out age);
             do
@@ -58,7 +66,7 @@ namespace UserLogin
                 Console.WriteLine("Please enter correct value");
                 str = (Console.ReadLine());
                 result = byte.TryParse(str, out age);
-            } while (!result||age<7&&age>200);
+            } while (!result || age < 7 && age > 200);
             return age;
         }
         public string Capitalized(string item)
@@ -85,6 +93,58 @@ namespace UserLogin
             }
             return result;
         }
-       
+        public bool CheckPassword(string password)
+        {
+            bool result = false;
+            bool result1 = false;
+            bool result2 = false;
+            bool result3 = false;
+            for (int i = 0; i < password.Length; i++)
+            {
+                if (char.IsLetter(password[i]))
+                {
+                    if (char.IsUpper(password[i]))
+                    {
+                        result = true;
+                    }
+                    if (char.IsLower(password[i]))
+                    {
+                        result1 = true;
+                    }
+                }
+                if (char.IsDigit(password[i]))
+                {
+                    result2 = true;
+                }
+            }
+            
+            if (result == true && result1 == true && result2 == true)
+            {
+                result3 = true;
+            }
+            return result3;
+        }
+        public bool CheckUsername(string username)
+        {
+            bool result = false;
+            bool result1 = false;
+            bool result2 = true;
+            for (int i = 0; i < username.Length; i++)
+            {
+                if (char.IsLetter(username[i]))
+                {
+                    result = true;
+                }
+                if (char.IsDigit(username[i]))
+                {
+                    result1 = true;
+                }
+                if (!char.IsLetter(username[i]))
+                {
+                    result = true;
+                }
+
+            }
+        }
     }
 }
